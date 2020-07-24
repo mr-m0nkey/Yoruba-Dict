@@ -1,6 +1,7 @@
 package io.macaca.yorubadict.entities;
 
 import io.macaca.yorubadict.converters.StringListConverter;
+import io.macaca.yorubadict.enums.Language;
 import lombok.Getter;
 import lombok.Setter;
 
@@ -23,5 +24,8 @@ public class Entry {
     private List<String> exampleSentences;
 
     private String definition;
+
+    @Enumerated(EnumType.STRING)
+    private Language language;
 
 }
