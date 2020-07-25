@@ -2,5 +2,16 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../the-yoruba-dictionary" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../the-yoruba-dictionary/auth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../the-yoruba-dictionary/bootstrap" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../the-yoruba-dictionary/elasticsearch" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../the-yoruba-dictionary/event" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../the-yoruba-dictionary/importer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../the-yoruba-dictionary/jpasearch" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../the-yoruba-dictionary/model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../the-yoruba-dictionary/searchapi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../the-yoruba-dictionary/webapi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../the-yoruba-dictionary/website" charset="UTF-8" />
   </component>
 </project>

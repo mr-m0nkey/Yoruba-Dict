@@ -1,0 +1,1 @@
+CREATE INDEX ID_entries_word ON entries (word);

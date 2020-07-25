@@ -20,6 +20,9 @@ public class Entry {
 
     private String word;
 
+//    @Convert(converter = StringListConverter.class)
+    private String variants;
+
     @Convert(converter = StringListConverter.class)
     private List<String> exampleSentences;
 

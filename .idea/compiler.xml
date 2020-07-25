@@ -7,8 +7,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="YorubaDict" />
+        <module name="jpa-search-module" />
+        <module name="elasticsearch-module" />
         <module name="authenticator-service" />
+        <module name="YorubaDict" />
+        <module name="model-module" />
+        <module name="search-api" />
+        <module name="auth-module" />
+        <module name="importer-module" />
+        <module name="event-module" />
+        <module name="website" />
+        <module name="webapi-module" />
+        <module name="bootstrap-module" />
       </profile>
     </annotationProcessing>
   </component>
